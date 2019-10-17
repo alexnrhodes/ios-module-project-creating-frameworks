@@ -1,6 +1,6 @@
 //
-//  LoadingCustomUITestUITests.swift
-//  LoadingCustomUITestUITests
+//  LoadingUITestUITests.swift
+//  LoadingUITestUITests
 //
 //  Created by Alex Rhodes on 10/16/19.
 //  Copyright © 2019 Alex Rhodes. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class LoadingCustomUITestUITests: XCTestCase {
+class LoadingUITestUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
